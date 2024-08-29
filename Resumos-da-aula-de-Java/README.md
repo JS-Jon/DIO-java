@@ -15,3 +15,7 @@ Repositório para armazenar meus resumos sobre as aulas do DIO de Java que estou
 | Aulas | Resumo |
 |-------|---------|
 | Nome | [Resumo]()
+| Nome | [Resumo]()
+| Nome | [Resumo]()
+| Nome | [Resumo]()
+| Nome | [Resumo]()
